@@ -101,6 +101,6 @@ These repositories represent my learning path and growth - what I’ve studied, 
 
 ## GitHub stats
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krasimirnyv" alt="Krasi's GitHub stats" />
-</p>
+<a href="https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=krasimirnyv&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=250" alt="Krasi's GitHub stats" />
+</a>
