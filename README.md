@@ -57,11 +57,12 @@ Repo: <a href="https://github.com/krasimirnyv/Snake-Game-with-custom-DI-Framewor
 These repositories represent my learning path and growth - what I’ve studied, how I write code, and how I approach problems.
 
 - C# Web: <a href="https://github.com/krasimirnyv/SoftUni-CSharp-Web">Link to my ASP.NET Core repo</a>
-- C# DB: <a href="https://github.com/krasimirnyv/SoftUni-CSharp-DB">Link to my Entity Framework Core repo</a>
+- C# EF Core: <a href="https://github.com/krasimirnyv/SoftUni-CSharp-DB">Link to my Entity Framework Core repo</a>
+- C# MS SQL: <a href="https://github.com/krasimirnyv/SoftUni-CSharp-MSSQL">Link to my MS SQL repo</a>
 - C# OOP: <a href="https://github.com/krasimirnyv/SoftUni-CSharp-OOPModule">Link to my Object-Oriented Programming repo</a>
 - C# Advanced: <a href="https://github.com/krasimirnyv/SoftUni-CSharp-AdvancedModule">Link to my Advanced Module repo</a>
 - C# Fundamentals: <a href="https://github.com/krasimirnyv/SoftUni-CSharp-FundamentalsModule">Link to my Fundamentals Module repo (regular)</a>
-  | <a href="https://github.com/krasimirnyv/MoreExercises-CSharp-Fundamentals">Link to my Fundamentals Module repo (additional)</a> 
+  **|** <a href="https://github.com/krasimirnyv/MoreExercises-CSharp-Fundamentals">Link to my Fundamentals Module repo (additional)</a> 
 
 ---
 
