@@ -1,5 +1,5 @@
 <h1 align="center"> 👋🏻 Hello World! I'm Krasimir Naydenov</h1>
-<h3 align="center">C# Software Engineering Student • Learning the .NET technologies</h3>
+<h3 align="center">Software Engineering Student • Learning .NET & DevOps technologies</h3>
 
  <p align="left">
       <a href="https://github.com/krasimirnyv?tab=followers">
@@ -8,19 +8,65 @@
 
 ## About me
 
-Deeply immersed in the world of **C# .NET** technologies, seeking new knowledge and skills to carefully apply in my future career as a **Software Engineer**.
+I am deeply interested in .NET technologies and software engineering, with a strong focus on continuously expanding my knowledge and applying it carefully in real-world professional environments.
 
-I stand out with my artistry as an audio-visual creator. Working in film productions has developed my ability to collaborate effectively in large teams and adapt to different situations and challenges.
+I have hands-on experience with **C#**, **ASP.NET MVC**, **EF Core**, **MS SQL**, **Git/GitHub**, and **Docker**, as well as basic knowledge of **Linux** and **Azure**.
 
-**The screen arts are my passion. Programming is my dream.**
+Currently, I am further developing my skills through SoftUni’s **DevOps and Cloud** upskill program, with a strong interest in **CI/CD**, **automation**, **infrastructure**, **monitoring**, **cloud services**, and **reliable software delivery**.
 
-<p>🎯 Current focus: <strong>C#</strong>, <strong>ASP.NET Core</strong>, <strong>EF Core</strong>, <strong>SQL Server</strong> </p>
-<p>🧭 Engineering principles that I strive to follow: <strong>SOLID</strong>, <strong>Clean Architecture</strong>, <strong>Clean Code</strong>, <strong>Separation of Concerns</strong>, <strong>Dependency Injection / IoC</strong> </p>
-<p>🚀 Career: currently in an intensive learning phase; but <strong>soon</strong> I’ll start actively applying for <strong>Internship / Junior</strong> roles> </p>
-<p>🎥 Fun fact: I’m a <strong>retired cinematographer</strong></p>
-<p>☕️ PS: I’m also self-studying <strong>Java</strong></p>
+I am motivated to grow in a practical engineering environment where I can contribute with **discipline**, **curiosity**, **responsibility**, and a **problem-solving mindset**.
 
----
+Beyond software development, I also have a strong background in audio-visual creation and screen arts. My experience in film productions has helped me develop adaptability, creative thinking, and the ability to collaborate effectively in large teams under dynamic conditions.
+
+> Screen arts are my passion.  
+
+> Programming is my dream.  
+
+> DevOps is my next challenge.
+
+## Current focus
+
+- **C#**
+
+- **ASP.NET Core / ASP.NET MVC**
+
+- **Entity Framework Core**
+
+- **MS SQL Server**
+
+- **Git & GitHub**
+
+- **Docker**
+
+- **Linux basics**
+
+- **Azure basics**
+
+- **DevOps & Cloud fundamentals**
+
+## Engineering principles I strive to follow
+
+- SOLID principles
+
+- Clean Code
+
+- Separation of Concerns
+
+- Dependency Injection / Inversion of Control
+
+- Maintainable and readable software design
+
+- Practical problem solving
+
+## Career direction
+
+Currently in an intensive learning phase and preparing to actively apply for Internship and Junior roles.
+
+## Fun fact
+
+I am also a retired cinematographer.
+
+☕️ PS: I’m also self-studying <strong>Java</strong>.
 
 ## Featured projects - Portfolio
 
