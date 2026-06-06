@@ -6,69 +6,29 @@
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/krasimirnyv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
 
-## About me
+## Let me tell you about me 😄
 
-I am deeply interested in .NET technologies and software engineering, with a strong focus on continuously expanding my knowledge and applying it carefully in real-world professional environments.
+I'm deeply interested in **.NET** technologies and software engineering, with a focus on continuously expanding my knowledge.
 
-I have hands-on experience with **C#**, **ASP.NET MVC**, **EF Core**, **MS SQL**, **Git/GitHub**, and **Docker**, as well as basic knowledge of **Linux** and **Azure**.
+I have hands-on experience with **C#**, **ASP.NET MVC**, **Entity Framework Core**, **MS SQL**, **Git & GitHub**, **Docker**, as well as basic knowledge of **Linux** and **Azure**.
 
-Currently, I am further developing my skills through SoftUni’s **DevOps and Cloud** upskill program, with a strong interest in **CI/CD**, **automation**, **infrastructure**, **monitoring**, **cloud services**, and **reliable software delivery**.
+Currently, I am further developing my skills through SoftUni’s **DevOps and Cloud** upskill program, to learn new things such as **CI/CD**, **automation processes**, **infrastructure**, **monitoring**, **cloud services**, and **reliable software delivery**.
 
 I am motivated to grow in a practical engineering environment where I can contribute with **discipline**, **curiosity**, **responsibility**, and a **problem-solving mindset**.
 
 Beyond software development, I also have a strong background in audio-visual creation and screen arts. My experience in film productions has helped me develop adaptability, creative thinking, and the ability to collaborate effectively in large teams under dynamic conditions.
 
-> Screen arts are my passion.  
+> Screen arts are my passion.
 
-> Programming is my dream.  
-
+> Programming is my dream.
+ 
 > DevOps is my next challenge.
 
-## Current focus
+##### Fun fact about me: I am a retired cinematographer.
 
-- **C#**
+---
 
-- **ASP.NET Core / ASP.NET MVC**
-
-- **Entity Framework Core**
-
-- **MS SQL Server**
-
-- **Git & GitHub**
-
-- **Docker**
-
-- **Linux basics**
-
-- **Azure basics**
-
-- **DevOps & Cloud fundamentals**
-
-## Engineering principles I strive to follow
-
-- SOLID principles
-
-- Clean Code
-
-- Separation of Concerns
-
-- Dependency Injection / Inversion of Control
-
-- Maintainable and readable software design
-
-- Practical problem solving
-
-## Career direction
-
-Currently in an intensive learning phase and preparing to actively apply for Internship and Junior roles.
-
-## Fun fact
-
-I am also a retired cinematographer.
-
-☕️ PS: I’m also self-studying <strong>Java</strong>.
-
-## Featured projects - Portfolio
+## Featured projects
 
 ### 🎬 WRAP - Film Production Management System
 A web platform for managing film productions, helping in every phase of development - organizing scripts, production planning and scheduling, teams, and assets.
@@ -85,7 +45,7 @@ Can't wait to shout: “It’s a WRAP!”
 
 Repo: <a href="https://github.com/krasimirnyv/Wrap-FilmProductionManagementSystem-ASP.NET-Project">Check the WRAP project</a>
 
----
+</br>
 
 ### 🐍 Snake Game with Custom DI Framework
 Classic Snake in C#, built on top of a custom-made **Dependency Injection / IoC** framework.
@@ -96,7 +56,7 @@ Repo: <a href="https://github.com/krasimirnyv/Snake-Game-with-custom-DI-Framewor
 
 ---
 
-## Coursework and homework from Software University
+## Courseworks and homeworks from Software University 🎓
 
 These repositories represent my learning path and growth - what I’ve studied, how I write code, and how I approach problems.
 
@@ -112,9 +72,6 @@ These repositories represent my learning path and growth - what I’ve studied, 
 
 ## My tech stack
 
-**Top technologies:** C#, .NET, ASP.NET Core, Entity Framework Core, SQL Server  
-<!-- **Also familiar / exploring:** JavaScript, HTML, CSS, Bootstrap, Docker, Kubernetes, CI/CD, Java -->
-
 <div align="center">
 	<code><img width="65" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
 	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".NET Core" title=".NET Core"/></code>
@@ -128,11 +85,11 @@ These repositories represent my learning path and growth - what I’ve studied, 
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
 	-->
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
 	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"
+	<code><img width="53" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
+	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"
 alt="Linux" title="Linux"/></code>
 	<!-- 
 	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code>
