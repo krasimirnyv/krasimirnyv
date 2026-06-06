@@ -16,7 +16,7 @@ Currently, I am further developing my skills through SoftUni’s **DevOps and Cl
 
 I am motivated to grow in a practical engineering environment where I can contribute with **discipline**, **curiosity**, **responsibility**, and a **problem-solving mindset**.
 
-Beyond software development, I also have a strong background in audio-visual creation and screen arts. My experience in film productions has helped me develop adaptability, creative thinking, and the ability to collaborate effectively in large teams under dynamic conditions.
+Beyond software development, I also have a strong background in audio-visual creation and film production, which has strengthened my creativity, adaptability, and ability to collaborate effectively in dynamic team environments.
 
 > Screen arts are my passion.
 
