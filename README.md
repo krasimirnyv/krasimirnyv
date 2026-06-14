@@ -43,7 +43,7 @@ The project is currently in **active development**. While some features are stil
 
 Can't wait to shout: “It’s a WRAP!”
 
-Repo: <a href="https://github.com/krasimirnyv/Wrap-FilmProductionManagementSystem-ASP.NET-Project">Check the WRAP project</a>
+Repo: <a href="https://github.com/krasimirnyv/Wrap-FilmProductionManagementSystem-ASP.NET-Project">Check the 🎬 WRAP Project</a>
 
 </br>
 
@@ -52,7 +52,17 @@ Classic Snake in C#, built on top of a custom-made **Dependency Injection / IoC*
 
 Highlights of the project are the developed custom **Dependency Injection framework**, a clean **OOP** structure (interfaces, responsibilities, extensibility). Easy for testing and debugging. And last but not least, there is the option to locally save the highest score for each user.
 
-Repo: <a href="https://github.com/krasimirnyv/Snake-Game-with-custom-DI-Framework">Check the 🐍 game</a>
+Repo: <a href="https://github.com/krasimirnyv/Snake-Game-with-custom-DI-Framework">Check the 🐍 Snake Game</a>
+
+</br>
+
+### 🚀 Space Program — SPACE 2026 Console Mission
+A .NET console application that simulates a space rescue mission, where multiple astronauts must find the shortest and safest route back to the Space Station through a randomly generated cosmic map.
+
+Highlights of the project are the clean OOP structure with SOLID principles, swappable BFS and Dijkstra pathfinding algorithms, weighted movement with Space Debris, custom validation and error handling, console report rendering and optional mission report sending via Gmail SMTP.
+
+Repo: <a href="https://github.com/krasimirnyv/Assessment-Task-SPACE-2026">Check the 🚀 Space Program</a>
+
 
 ---
 
