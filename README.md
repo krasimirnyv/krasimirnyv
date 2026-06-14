@@ -56,7 +56,7 @@ Repo: <a href="https://github.com/krasimirnyv/Snake-Game-with-custom-DI-Framewor
 
 </br>
 
-### 🚀 Space Program — SPACE 2026 Console Mission
+### 🚀 Space Program - SPACE 2026 Console Mission
 A .NET console application that simulates a space rescue mission, where multiple astronauts must find the shortest and safest route back to the Space Station through a randomly generated cosmic map.
 
 Highlights of the project are the clean OOP structure with SOLID principles, swappable BFS and Dijkstra pathfinding algorithms, weighted movement with Space Debris, custom validation and error handling, console report rendering and optional mission report sending via Gmail SMTP.
