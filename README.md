@@ -112,7 +112,7 @@ alt="Linux" title="Linux"/></code>
 
 ## Connect with me
 
-- LinkedIn: **<a href="https://www.linkedin.com/in/krasimir-naydenov-b6aa2b241">Visit my profile</a>**
+- LinkedIn: **<a href="https://www.linkedin.com/in/krasimirnaydenov">Visit my profile</a>**
 - Email: **krasi.photography@gmail.com**
 
 ---
